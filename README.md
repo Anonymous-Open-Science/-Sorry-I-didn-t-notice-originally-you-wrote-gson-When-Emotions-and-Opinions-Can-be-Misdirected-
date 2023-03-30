@@ -1,4 +1,4 @@
-# "Sorry, I didn't notice originally you wrote gson!", When Emotions and Opinions Can be Misdirected
+# "Sorry, I didn’t notice you wrote ‘gson’!" Managing Emotion Misdirection in Technical Reviews by Noise Data Augmentation
 Replication Package for the above titled paper.
 
 1. Datasets:
