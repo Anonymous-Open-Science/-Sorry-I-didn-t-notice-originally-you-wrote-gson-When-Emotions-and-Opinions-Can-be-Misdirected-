@@ -20,5 +20,5 @@ Replication Package for the above titled paper.
 - Predicting sentiment using a Twitter trained model: label-sentiment-analysis-BERT.ipynb
 3. Results
 - Contains the classification reports of the experiments: classification_reports.xlsx
-4. Model paths: cannot upload anonymously because of size limitation (more than 10 GB). Will be shared after the paper is accepted.
+4. Model paths: cannot upload anonymously because of size limitation (more than 10 GB). Will be shared after the paper is accepted. However, the models can be prepared using the script sentiment-analysis-SimCSE.v4.ipynb
 
