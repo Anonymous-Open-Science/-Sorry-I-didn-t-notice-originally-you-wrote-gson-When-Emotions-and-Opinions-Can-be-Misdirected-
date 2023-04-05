@@ -6,7 +6,7 @@ Replication Package for the above titled paper.
 - Benchmark datasets
 - Benchmark datasets with noise
 - Noise file
-1. Source Code
+2. Source Code
 - SO data collection
 - Library Opinion Extraction
 - Data file splitting for train/validate/test: data-file-processing.py
@@ -18,5 +18,7 @@ Replication Package for the above titled paper.
 - Evaluation of the models (PTM+LLM) against online review data: model-evaluation-real-data.py
 - Fine-tuning of PTM models against datasets: sentiment-analysis-SimCSE.v4.ipynb
 - Predicting sentiment using a Twitter trained model: label-sentiment-analysis-BERT.ipynb
-1. Model paths: cannot be uploaded because of size limitation (more than 10 GB) being anonymous. Will be uploaded afterwards.
+3. Results
+- Contains the classification reports of the experiments: classification_reports.xlsx
+4. Model paths: cannot upload anonymously because of size limitation (more than 10 GB). Will be shared after the paper is accepted.
 
