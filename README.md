@@ -1,4 +1,4 @@
-# "Sorry, I didn’t notice you wrote ‘gson’!" Managing Emotion Misdirection in Technical Reviews by Noise Data Augmentation
+# Noise Aware Contrastive Learning for Sentiment Detection
 Replication Package for the above titled paper.
 
 1. Datasets:
